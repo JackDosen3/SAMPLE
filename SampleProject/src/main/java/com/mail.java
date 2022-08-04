@@ -34,7 +34,7 @@ public class mail extends HttpServlet {
 	 * @see HttpServlet#doPost(HttpServletRequest request, HttpServletResponse response)
 	 */
 	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-	System.out.println("메인 서블릿");
+	System.out.println("메인 서블릿11");
 	}
 
 }
